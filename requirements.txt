@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy>=1.26
+pyarrow>=17.0
+scikit-learn>=1.5
+matplotlib>=3.9
+plotly>=5.22
+jupyter>=1.0
+python-dateutil>=2.9
